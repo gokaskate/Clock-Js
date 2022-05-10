@@ -1,2 +1,2 @@
 # Clock-Js
-Relojito bonito analogo, Me falto el digital pero i dont care :)
+Relojito bonito analogo, me falto el digital pero I Dont Care :)
